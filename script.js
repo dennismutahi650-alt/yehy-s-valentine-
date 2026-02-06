@@ -14,7 +14,7 @@ noBtn.addEventListener("mouseover", () => {
 
 // 2. What happens when they click "Yes"
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Yay! See you on the 14th! 😘😘 Love you😘";
+    question.innerHTML = "Yay! See you on the 14th! 😘😘 I Love you Njeri😘";
     mainGif.src = "";
     noBtn.style.display = "none"; // Hide the No button
 });
